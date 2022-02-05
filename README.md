@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🔥, I'm Henry Dennis</h1>
-<h3 align="center">A 👨‍🎨 designer, sys admin 🤦‍♂️ that use github only for personal use in his free time.</h3>
+<h3 align="center">A 👨‍🎨 designer, sys admin 🤦‍♂️ that use github only for personal use during his free time.</h3>
 
 
 <h3 align="center">🛠Tools of Trade🛠</h3>
